@@ -1,0 +1,18 @@
+.header{
+	background: url('../images/img_header.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	color: #fff;
+
+}
+
+.text_header{
+
+	position: fixed;
+    top: 10px;
+	width:40%!important;
+
+}
